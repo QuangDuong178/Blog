@@ -22,7 +22,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Quang Dương's Blog</title>
+        <title>Quang Dương Blog</title>
         <meta name="description" content="Quang Dương" />
         <link rel="icon" href="/image/icon_title.jpg" />
       </Head>
