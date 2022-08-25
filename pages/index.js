@@ -1,8 +1,4 @@
 import Head from "next/head";
-import Image from "next/image";
-import Icontitle from "../public/image/icon_title.jpg";
-
-import styles from "../styles/Home.module.scss";
 
 export default function Home() {
   // let stars = getElementById("stars");
@@ -29,8 +25,7 @@ export default function Home() {
       <body>
         <header>
           <a href="#" className="logo">
-            {" "}
-            Quang Dương's Blog
+            Quang Dương Blog
           </a>
           <ul>
             <li>
